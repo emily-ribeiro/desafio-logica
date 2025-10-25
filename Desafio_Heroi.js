@@ -24,7 +24,7 @@ const guerreiro = new BaseHeroi('Joao', 25, 'guerreiro');
 console.log(guerreiro.ataque());
 const mago = new BaseHeroi('Maria', 30, 'mago');
 console.log(mago.ataque());
-const monge = new BaseHeroi('Maria', 30, 'mago');
+const monge = new BaseHeroi('Maria', 30, 'monge');
 console.log(monge.ataque());
 const ninja = new BaseHeroi('Akira', 20, 'ninja'); 
 console.log(ninja.ataque());
